@@ -1,0 +1,364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\basappa\\HFilesMedicalAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97F756F5-B20C-4C13-81F1-66C4E8DEA92D}|HFilesMedicalAPI.csproj|d:\\basappa\\hfilesmedicalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F756F5-B20C-4C13-81F1-66C4E8DEA92D}|HFilesMedicalAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F756F5-B20C-4C13-81F1-66C4E8DEA92D}|HFilesMedicalAPI.csproj|d:\\basappa\\hfilesmedicalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{97F756F5-B20C-4C13-81F1-66C4E8DEA92D}|HFilesMedicalAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F756F5-B20C-4C13-81F1-66C4E8DEA92D}|HFilesMedicalAPI.csproj|d:\\basappa\\hfilesmedicalapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F756F5-B20C-4C13-81F1-66C4E8DEA92D}|HFilesMedicalAPI.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F756F5-B20C-4C13-81F1-66C4E8DEA92D}|HFilesMedicalAPI.csproj|d:\\basappa\\hfilesmedicalapi\\repositories\\profilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F756F5-B20C-4C13-81F1-66C4E8DEA92D}|HFilesMedicalAPI.csproj|solutionrelative:repositories\\profilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F756F5-B20C-4C13-81F1-66C4E8DEA92D}|HFilesMedicalAPI.csproj|d:\\basappa\\hfilesmedicalapi\\repositories\\filerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F756F5-B20C-4C13-81F1-66C4E8DEA92D}|HFilesMedicalAPI.csproj|solutionrelative:repositories\\filerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F756F5-B20C-4C13-81F1-66C4E8DEA92D}|HFilesMedicalAPI.csproj|d:\\basappa\\hfilesmedicalapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F756F5-B20C-4C13-81F1-66C4E8DEA92D}|HFilesMedicalAPI.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F756F5-B20C-4C13-81F1-66C4E8DEA92D}|HFilesMedicalAPI.csproj|d:\\basappa\\hfilesmedicalapi\\models\\medicalfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F756F5-B20C-4C13-81F1-66C4E8DEA92D}|HFilesMedicalAPI.csproj|solutionrelative:models\\medicalfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F756F5-B20C-4C13-81F1-66C4E8DEA92D}|HFilesMedicalAPI.csproj|d:\\basappa\\hfilesmedicalapi\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F756F5-B20C-4C13-81F1-66C4E8DEA92D}|HFilesMedicalAPI.csproj|solutionrelative:interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F756F5-B20C-4C13-81F1-66C4E8DEA92D}|HFilesMedicalAPI.csproj|d:\\basappa\\hfilesmedicalapi\\interfaces\\iprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F756F5-B20C-4C13-81F1-66C4E8DEA92D}|HFilesMedicalAPI.csproj|solutionrelative:interfaces\\iprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F756F5-B20C-4C13-81F1-66C4E8DEA92D}|HFilesMedicalAPI.csproj|d:\\basappa\\hfilesmedicalapi\\interfaces\\ifilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F756F5-B20C-4C13-81F1-66C4E8DEA92D}|HFilesMedicalAPI.csproj|solutionrelative:interfaces\\ifilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F756F5-B20C-4C13-81F1-66C4E8DEA92D}|HFilesMedicalAPI.csproj|d:\\basappa\\hfilesmedicalapi\\dtos\\uploadmedicalfiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F756F5-B20C-4C13-81F1-66C4E8DEA92D}|HFilesMedicalAPI.csproj|solutionrelative:dtos\\uploadmedicalfiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F756F5-B20C-4C13-81F1-66C4E8DEA92D}|HFilesMedicalAPI.csproj|d:\\basappa\\hfilesmedicalapi\\dtos\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F756F5-B20C-4C13-81F1-66C4E8DEA92D}|HFilesMedicalAPI.csproj|solutionrelative:dtos\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F756F5-B20C-4C13-81F1-66C4E8DEA92D}|HFilesMedicalAPI.csproj|d:\\basappa\\hfilesmedicalapi\\dtos\\signupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F756F5-B20C-4C13-81F1-66C4E8DEA92D}|HFilesMedicalAPI.csproj|solutionrelative:dtos\\signupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F756F5-B20C-4C13-81F1-66C4E8DEA92D}|HFilesMedicalAPI.csproj|d:\\basappa\\hfilesmedicalapi\\dtos\\profileresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F756F5-B20C-4C13-81F1-66C4E8DEA92D}|HFilesMedicalAPI.csproj|solutionrelative:dtos\\profileresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F756F5-B20C-4C13-81F1-66C4E8DEA92D}|HFilesMedicalAPI.csproj|d:\\basappa\\hfilesmedicalapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F756F5-B20C-4C13-81F1-66C4E8DEA92D}|HFilesMedicalAPI.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F756F5-B20C-4C13-81F1-66C4E8DEA92D}|HFilesMedicalAPI.csproj|d:\\basappa\\hfilesmedicalapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F756F5-B20C-4C13-81F1-66C4E8DEA92D}|HFilesMedicalAPI.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F756F5-B20C-4C13-81F1-66C4E8DEA92D}|HFilesMedicalAPI.csproj|d:\\basappa\\hfilesmedicalapi\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F756F5-B20C-4C13-81F1-66C4E8DEA92D}|HFilesMedicalAPI.csproj|solutionrelative:controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F756F5-B20C-4C13-81F1-66C4E8DEA92D}|HFilesMedicalAPI.csproj|d:\\basappa\\hfilesmedicalapi\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F756F5-B20C-4C13-81F1-66C4E8DEA92D}|HFilesMedicalAPI.csproj|solutionrelative:controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F756F5-B20C-4C13-81F1-66C4E8DEA92D}|HFilesMedicalAPI.csproj|d:\\basappa\\hfilesmedicalapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F756F5-B20C-4C13-81F1-66C4E8DEA92D}|HFilesMedicalAPI.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F756F5-B20C-4C13-81F1-66C4E8DEA92D}|HFilesMedicalAPI.csproj|d:\\basappa\\hfilesmedicalapi\\migrations\\20260606041515_initialcreate3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F756F5-B20C-4C13-81F1-66C4E8DEA92D}|HFilesMedicalAPI.csproj|solutionrelative:migrations\\20260606041515_initialcreate3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 261,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MedicalFile.cs",
+              "DocumentMoniker": "D:\\basappa\\HFilesMedicalAPI\\Models\\MedicalFile.cs",
+              "RelativeDocumentMoniker": "Models\\MedicalFile.cs",
+              "ToolTip": "D:\\basappa\\HFilesMedicalAPI\\Models\\MedicalFile.cs",
+              "RelativeToolTip": "Models\\MedicalFile.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA5wBEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T02:58:32.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\basappa\\HFilesMedicalAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\basappa\\HFilesMedicalAPI\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T02:58:02.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProfileRepository.cs",
+              "DocumentMoniker": "D:\\basappa\\HFilesMedicalAPI\\Repositories\\ProfileRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProfileRepository.cs",
+              "ToolTip": "D:\\basappa\\HFilesMedicalAPI\\Repositories\\ProfileRepository.cs",
+              "RelativeToolTip": "Repositories\\ProfileRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T03:26:14.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileRepository.cs",
+              "DocumentMoniker": "D:\\basappa\\HFilesMedicalAPI\\Repositories\\FileRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\FileRepository.cs",
+              "ToolTip": "D:\\basappa\\HFilesMedicalAPI\\Repositories\\FileRepository.cs",
+              "RelativeToolTip": "Repositories\\FileRepository.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowCUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T03:36:45.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\basappa\\HFilesMedicalAPI\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\basappa\\HFilesMedicalAPI\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T03:08:46.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\basappa\\HFilesMedicalAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\basappa\\HFilesMedicalAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-05T02:59:41.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\basappa\\HFilesMedicalAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\basappa\\HFilesMedicalAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T02:51:38.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\basappa\\HFilesMedicalAPI\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUserRepository.cs",
+              "ToolTip": "D:\\basappa\\HFilesMedicalAPI\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T03:07:33.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProfileRepository.cs",
+              "DocumentMoniker": "D:\\basappa\\HFilesMedicalAPI\\Interfaces\\IProfileRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IProfileRepository.cs",
+              "ToolTip": "D:\\basappa\\HFilesMedicalAPI\\Interfaces\\IProfileRepository.cs",
+              "RelativeToolTip": "Interfaces\\IProfileRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T03:25:14.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IFileRepository.cs",
+              "DocumentMoniker": "D:\\basappa\\HFilesMedicalAPI\\Interfaces\\IFileRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IFileRepository.cs",
+              "ToolTip": "D:\\basappa\\HFilesMedicalAPI\\Interfaces\\IFileRepository.cs",
+              "RelativeToolTip": "Interfaces\\IFileRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T03:36:18.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UploadMedicalFileDto.cs",
+              "DocumentMoniker": "D:\\basappa\\HFilesMedicalAPI\\DTOs\\UploadMedicalFileDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UploadMedicalFileDto.cs",
+              "ToolTip": "D:\\basappa\\HFilesMedicalAPI\\DTOs\\UploadMedicalFileDto.cs",
+              "RelativeToolTip": "DTOs\\UploadMedicalFileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T03:35:36.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateProfileDto.cs",
+              "DocumentMoniker": "D:\\basappa\\HFilesMedicalAPI\\DTOs\\UpdateProfileDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UpdateProfileDto.cs",
+              "ToolTip": "D:\\basappa\\HFilesMedicalAPI\\DTOs\\UpdateProfileDto.cs",
+              "RelativeToolTip": "DTOs\\UpdateProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T03:24:24.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SignupDto.cs",
+              "DocumentMoniker": "D:\\basappa\\HFilesMedicalAPI\\DTOs\\SignupDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\SignupDto.cs",
+              "ToolTip": "D:\\basappa\\HFilesMedicalAPI\\DTOs\\SignupDto.cs",
+              "RelativeToolTip": "DTOs\\SignupDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T03:03:23.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProfileResponseDto.cs",
+              "DocumentMoniker": "D:\\basappa\\HFilesMedicalAPI\\DTOs\\ProfileResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ProfileResponseDto.cs",
+              "ToolTip": "D:\\basappa\\HFilesMedicalAPI\\DTOs\\ProfileResponseDto.cs",
+              "RelativeToolTip": "DTOs\\ProfileResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T03:24:47.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\basappa\\HFilesMedicalAPI\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\LoginDto.cs",
+              "ToolTip": "D:\\basappa\\HFilesMedicalAPI\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T03:04:23.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\basappa\\HFilesMedicalAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\basappa\\HFilesMedicalAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T02:59:07.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "D:\\basappa\\HFilesMedicalAPI\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProfileController.cs",
+              "ToolTip": "D:\\basappa\\HFilesMedicalAPI\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "Controllers\\ProfileController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowFoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T03:27:10.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FileController.cs",
+              "DocumentMoniker": "D:\\basappa\\HFilesMedicalAPI\\Controllers\\FileController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FileController.cs",
+              "ToolTip": "D:\\basappa\\HFilesMedicalAPI\\Controllers\\FileController.cs",
+              "RelativeToolTip": "Controllers\\FileController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAowF4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T03:51:51.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\basappa\\HFilesMedicalAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\basappa\\HFilesMedicalAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwD0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T03:09:56.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20260606041515_InitialCreate3.cs",
+              "DocumentMoniker": "D:\\basappa\\HFilesMedicalAPI\\Migrations\\20260606041515_InitialCreate3.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260606041515_InitialCreate3.cs",
+              "ToolTip": "D:\\basappa\\HFilesMedicalAPI\\Migrations\\20260606041515_InitialCreate3.cs",
+              "RelativeToolTip": "Migrations\\20260606041515_InitialCreate3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T04:15:16.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
